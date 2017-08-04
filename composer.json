@@ -14,7 +14,8 @@
     }
   ],
   "require": {
-    "yiisoft/yii2": "~2.0.0"
+    "yiisoft/yii2": "~2.0.0",
+    "bower-asset/simditor": "~2.3.0"
   },
   "autoload": {
     "psr-4": {
